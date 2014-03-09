@@ -1,5 +1,5 @@
 /*
- * Device driver for DHT11 value and humidity sensor
+ * Device driver for HC-SR501 PIR motion sensor
  * Copyright (C) 2014 Charles Sluder 
  *
  * This program is free software; you can redistribute it and/or
